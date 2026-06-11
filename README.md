@@ -1,8 +1,14 @@
 # Voyage
 
-Public image hosting for Voyage character portraits.
+Public image hosting for Voyage images.
 
-Portrait links will use the GitHub Pages format once Pages is enabled:
+Image links will use the GitHub Pages format once Pages is enabled:
 
-https://Arxadious.github.io/Voyage/portraits/filename.png
+Character portraits:
+
+https://Arxadious.github.io/Voyage/characters/filename.png
+
+Location images:
+
+https://Arxadious.github.io/Voyage/locations/filename.png
 
