@@ -2,15 +2,18 @@
 
 Public image hosting for Voyage images.
 
-Image links will use the GitHub Pages format once Pages is enabled:
+Image links use the GitHub Pages format once Pages is enabled:
 
-Character portraits:
+Realms:
 
-https://Arxadious.github.io/Voyage/characters/filename.png
+https://Arxadious.github.io/Voyage/realms/filename.png
 
-Location images:
+Regions:
 
-https://Arxadious.github.io/Voyage/locations/filename.png
+https://Arxadious.github.io/Voyage/regions/filename.png
 
-See `location-image-links.md` for the current location image URLs.
+NPC portraits:
 
+https://Arxadious.github.io/Voyage/npcs/filename.png
+
+See `image-links.md` for the current realm and region image URLs.
