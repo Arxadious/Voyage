@@ -12,3 +12,5 @@ Location images:
 
 https://Arxadious.github.io/Voyage/locations/filename.png
 
+See `location-image-links.md` for the current location image URLs.
+
