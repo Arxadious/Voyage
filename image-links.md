@@ -161,3 +161,45 @@ Verdant Maw Archipelago: https://Arxadious.github.io/Voyage/regions/verdant-maw-
 Coral Throne Shoals: https://Arxadious.github.io/Voyage/regions/coral-throne-shoals.png
 Azure Gate Isles: https://Arxadious.github.io/Voyage/regions/azure-gate-isles.png
 ```
+
+## New 7x7 Character NPCs
+
+```text
+Sava Glasshoof: https://Arxadious.github.io/Voyage/npcs/sava-glasshoof.png
+Nalo Chainwatch: https://Arxadious.github.io/Voyage/npcs/nalo-chainwatch.png
+Admiral Rayen Bluemantle: https://Arxadious.github.io/Voyage/npcs/admiral-rayen-bluemantle.png
+Seraphine Tiderefrain: https://Arxadious.github.io/Voyage/npcs/seraphine-tiderefrain.png
+Lady Calyra Rosevoice: https://Arxadious.github.io/Voyage/npcs/lady-calyra-rosevoice.png
+Kiki Vinehand: https://Arxadious.github.io/Voyage/npcs/kiki-vinehand.png
+Chieftain Seka Brightscale: https://Arxadious.github.io/Voyage/npcs/chieftain-seka-brightscale.png
+Pala Slowcurrent: https://Arxadious.github.io/Voyage/npcs/pala-slowcurrent.png
+Elder Moku Shellwise: https://Arxadious.github.io/Voyage/npcs/elder-moku-shellwise.png
+Nazra Ashcoil: https://Arxadious.github.io/Voyage/npcs/nazra-ashcoil.png
+Matriarch Veshara Blacklotus: https://Arxadious.github.io/Voyage/npcs/matriarch-veshara-blacklotus.png
+Jori Wrecklaugh: https://Arxadious.github.io/Voyage/npcs/jori-wrecklaugh.png
+Speaker Tavi Quickcurrent: https://Arxadious.github.io/Voyage/npcs/speaker-tavi-quickcurrent.png
+Talon Skyrake: https://Arxadious.github.io/Voyage/npcs/talon-skyrake.png
+Beacon-Admiral Arvek Stormwing: https://Arxadious.github.io/Voyage/npcs/beacon-admiral-arvek-stormwing.png
+Regent Shiori Craneveil: https://Arxadious.github.io/Voyage/npcs/regent-shiori-craneveil.png
+Caldus Reefmender: https://Arxadious.github.io/Voyage/npcs/caldus-reefmender.png
+Tide-Matriarch Nerissa Pearlscale: https://Arxadious.github.io/Voyage/npcs/tide-matriarch-nerissa-pearlscale.png
+Sir Leona Dawnclaw: https://Arxadious.github.io/Voyage/npcs/sir-leona-dawnclaw.png
+March-Lord Aureon Sunmane: https://Arxadious.github.io/Voyage/npcs/march-lord-aureon-sunmane.png
+Khan Tamsin Whiteglass: https://Arxadious.github.io/Voyage/npcs/khan-tamsin-whiteglass.png
+Bunta Silverkettle: https://Arxadious.github.io/Voyage/npcs/bunta-silverkettle.png
+Judge Roko Rainkettle: https://Arxadious.github.io/Voyage/npcs/judge-roko-rainkettle.png
+Orin Honeyflute: https://Arxadious.github.io/Voyage/npcs/orin-honeyflute.png
+Archivist-Senator Liora Amberhorn: https://Arxadious.github.io/Voyage/npcs/archivist-senator-liora-amberhorn.png
+Maela Bluewake: https://Arxadious.github.io/Voyage/npcs/maela-bluewake.png
+Harbor Speaker Kael Sealcoat: https://Arxadious.github.io/Voyage/npcs/harbor-speaker-kael-sealcoat.png
+Renji Redmask: https://Arxadious.github.io/Voyage/npcs/renji-redmask.png
+Lady Akane Lantern-Tail: https://Arxadious.github.io/Voyage/npcs/lady-akane-lantern-tail.png
+Korga Petalbreaker: https://Arxadious.github.io/Voyage/npcs/korga-petalbreaker.png
+Hearth-Warden Borun Stonepaw: https://Arxadious.github.io/Voyage/npcs/hearth-warden-borun-stonepaw.png
+Nib Reedrunner: https://Arxadious.github.io/Voyage/npcs/nib-reedrunner.png
+Speaker Pippa Moonburrow: https://Arxadious.github.io/Voyage/npcs/speaker-pippa-moonburrow.png
+Ilyra Sky-Eye: https://Arxadious.github.io/Voyage/npcs/ilyra-sky-eye.png
+Dusk-Matron Soryn Hootglass: https://Arxadious.github.io/Voyage/npcs/dusk-matron-soryn-hootglass.png
+Torren Frosthorn: https://Arxadious.github.io/Voyage/npcs/torren-frosthorn.png
+Matriarch Eira Antlercrown: https://Arxadious.github.io/Voyage/npcs/matriarch-eira-antlercrown.png
+```
