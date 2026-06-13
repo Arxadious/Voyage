@@ -137,3 +137,27 @@ Illya Izunia: https://Arxadious.github.io/Voyage/npcs/illya-izunia.png
 Eris Ignis: https://Arxadious.github.io/Voyage/npcs/eris-ignis.png
 Director Rosaline Alfria: https://Arxadious.github.io/Voyage/npcs/director-rosaline-alfria.png
 ```
+
+## New 7x7 Regions
+
+```text
+Rimehorn Tundra: https://Arxadious.github.io/Voyage/regions/rimehorn-tundra.png
+Aurora Barrows: https://Arxadious.github.io/Voyage/regions/aurora-barrows.png
+Moonhare Marches: https://Arxadious.github.io/Voyage/regions/moonhare-marches.png
+Stonebloom Uplands: https://Arxadious.github.io/Voyage/regions/stonebloom-uplands.png
+Foxfire Vale: https://Arxadious.github.io/Voyage/regions/foxfire-vale.png
+Cobalt Fjords: https://Arxadious.github.io/Voyage/regions/cobalt-fjords.png
+Amberroot Weald: https://Arxadious.github.io/Voyage/regions/amberroot-weald.png
+Moonveil Reedlands: https://Arxadious.github.io/Voyage/regions/moonveil-reedlands.png
+Whiteglass Steppe: https://Arxadious.github.io/Voyage/regions/whiteglass-steppe.png
+Sunspire March: https://Arxadious.github.io/Voyage/regions/sunspire-march.png
+Pearlfen Coast: https://Arxadious.github.io/Voyage/regions/pearlfen-coast.png
+Vespermere Basin: https://Arxadious.github.io/Voyage/regions/vespermere-basin.png
+Thunderhook Peninsula: https://Arxadious.github.io/Voyage/regions/thunderhook-peninsula.png
+Sundermere Reefs: https://Arxadious.github.io/Voyage/regions/sundermere-reefs.png
+Ashen Lotus Delta: https://Arxadious.github.io/Voyage/regions/ashen-lotus-delta.png
+Glasswater Atolls: https://Arxadious.github.io/Voyage/regions/glasswater-atolls.png
+Verdant Maw Archipelago: https://Arxadious.github.io/Voyage/regions/verdant-maw-archipelago.png
+Coral Throne Shoals: https://Arxadious.github.io/Voyage/regions/coral-throne-shoals.png
+Azure Gate Isles: https://Arxadious.github.io/Voyage/regions/azure-gate-isles.png
+```
