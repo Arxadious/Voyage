@@ -180,6 +180,7 @@ Jori Wrecklaugh: https://Arxadious.github.io/Voyage/npcs/jori-wrecklaugh.png
 Speaker Tavi Quickcurrent: https://Arxadious.github.io/Voyage/npcs/speaker-tavi-quickcurrent.png
 Talon Skyrake: https://Arxadious.github.io/Voyage/npcs/talon-skyrake.png
 Beacon-Admiral Arvek Stormwing: https://Arxadious.github.io/Voyage/npcs/beacon-admiral-arvek-stormwing.png
+Mei Stillwater: https://Arxadious.github.io/Voyage/npcs/mei-stillwater.png
 Regent Shiori Craneveil: https://Arxadious.github.io/Voyage/npcs/regent-shiori-craneveil.png
 Caldus Reefmender: https://Arxadious.github.io/Voyage/npcs/caldus-reefmender.png
 Tide-Matriarch Nerissa Pearlscale: https://Arxadious.github.io/Voyage/npcs/tide-matriarch-nerissa-pearlscale.png
